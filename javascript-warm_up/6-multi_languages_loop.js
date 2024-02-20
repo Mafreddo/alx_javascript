@@ -3,5 +3,5 @@ whwile(true){
 }
 let statements =['C is fun', 'Python is cool', 'JavaScript is amazing']
 console.log(statement[0, 1 , 2]){
-    for (int statements =0; i<1; i++)
+    for (int i=0; i<1; i++)
 }
