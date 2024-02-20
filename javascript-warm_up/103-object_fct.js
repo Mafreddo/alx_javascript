@@ -1,7 +1,3 @@
-const myObject = {
-    type: 'object',
-    value: 12
-  };
-
-console.log(object)
-console.log(++object)
+let object = 12;
+object++;
+console.log(object);
