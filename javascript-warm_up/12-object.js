@@ -4,4 +4,4 @@ const myObject = {
   };
 
 myObject.value = 89
-comsole.log(myObject.value)
+console.log(myObject.value)
