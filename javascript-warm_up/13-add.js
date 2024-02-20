@@ -1,3 +1,8 @@
-console.log(4+85);
-console.log(93+(-4));
-console.log(0+89);
+const num1 = a;
+const num2 = b;
+
+// add two numbers
+const sum = num1 + num2;
+
+// display the sum
+console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
