@@ -1,8 +1,3 @@
-const num1 = 4;
-const num2 = 85;
-
-// add two numbers
-const sum = num1 + num2;
-
-// display the sum
-console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
+exports.add = function (num1, num2){
+    return num1 + num2
+};
