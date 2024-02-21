@@ -4,4 +4,4 @@ class Rectangle{
         height = h
     }
 }
-let Rectangle = new Rectangle
+var Rectangle = new Rectangle
