@@ -1,6 +1,8 @@
 
-  const Rectangle = class {
-    
-    };
-    console.log(Rectangle)
+//Empty class that defines a rectangle
+
+class Rectangle {
+
+}
+module.exports = Rectangle
   
