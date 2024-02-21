@@ -1,9 +1,10 @@
-// Declaration
+//Class that define a rectangle
+
 class Rectangle {
-    constructor(height, width) {
-      this.height = h;
-      this.width = w;
-    }
-  };
-  console.log(rectangel)
+    constructor (w, h){
+        this.width =w;
+        this.height = h;
+    };
+};
+module.exports = Rectangle;
   
