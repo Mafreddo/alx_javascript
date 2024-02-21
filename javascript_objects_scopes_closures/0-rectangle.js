@@ -1,5 +1,5 @@
 class Rectangle{
-    area = 50
+    constructor(Rectangle)
 }
-
+const Rectangle
 console.log(Rectangle)
