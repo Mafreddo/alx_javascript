@@ -4,7 +4,7 @@ class Rectangle{
         height = h
     }
 }
-const Rectangle = new Rectangle(3, 3);
+const Rectangle = new Rectangle(w, h);
 console.log(Rectangle);
 console.log(Rectangle.w);
 console.log(Rectangle.h);
