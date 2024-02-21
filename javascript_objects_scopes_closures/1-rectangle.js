@@ -1,7 +1,9 @@
-class Rectangle{
-    constructor(){
-        width = w
-        height = h
+// Declaration
+class Rectangle {
+    constructor(height, width) {
+      this.height = h;
+      this.width = w;
     }
-}
-const Rectangle = new Rectangle(w, h);
+  };
+  console.log(rectangel)
+  
