@@ -5,6 +5,6 @@ firstname = "Freddy"
 lastname = "Mathekga"
 
 Fullname = firstname + lastname
-}
+};
 
-console.log(welcome + " "+ desplayFullname)
+console.log(welcome + " "+ desplayFullname);
