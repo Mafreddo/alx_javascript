@@ -2,13 +2,13 @@
 
 let globalVariable = welcome;
 function outer(){
-    alert (globalVariable("welcome"))
-    course = Holberton
+    alert (globalVariable("welcome"));
+    let course = Holberton;
     function inner(){
         function inception(){
-        alert(globalVariable(course))
-        exclamation = !
-        console.log(inception)
+        alert(globalVariable(course));
+        let exclamation = !
+        console.log(inception);
         }
     console.log(inner)
     }
