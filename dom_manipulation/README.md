@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>DOM Introduction</title>
-</head>
-<body>
-  <p id="myParagraph">This is a paragraph.</p>
-</body>
-</html>
+This file is designed for Dom manipulation
