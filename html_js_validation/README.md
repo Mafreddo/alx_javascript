@@ -1,0 +1,1 @@
+This is a root file that explains the project. This is file is serves to provide scripts that contain client validation, how to implement basic form validation using JavaScrip, how to handle form submissions and perform data validation using JavaScript
